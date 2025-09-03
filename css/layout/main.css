@@ -1,0 +1,271 @@
+.hero-cards h1{
+    font-family: 'Berkshire Swash', cursive;
+  
+  margin-top: 40px;
+    font-size: 112px;
+}
+.hero-cards span{
+    font-family: 'Berkshire Swash', cursive;
+        font-weight: 400;
+        text-shadow: 0.5px 0.5px 0 #fff;
+        font-size: 112px;
+        color: #F83D8E;
+}
+h1,h2 {
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: 400;
+    text-shadow: 0.5px 0.5px 0 #fff;
+}
+.hero-cards h2{
+    font-size: 40px;
+   margin-left: 60px;
+   
+}
+#hero{
+    padding-top: 300px;
+    padding-bottom: 100px;
+    background-color: #f8eae181;
+}
+p{
+    font-size: 22px;
+    font-family: 'Archivo', serif;
+    margin-top: 30px;
+}
+.hero-cards button{
+    width: 305px;
+    height: 62px;
+    color: white;
+    background-color: #683292;
+    font-size: 16px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.hero-cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero2-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero2-cards  h1 ,span{
+    font-size: 60px;
+}
+.hero2-cards span{
+    color:#F83D8E ;
+}
+.hero2-cards button{
+    width: 238px;
+    height: 62px;
+    border-radius: 30px;
+    color: white;
+    background-color: #F83D8E;
+    margin-top: 50px;
+    border: none;
+}
+#hero2{
+    padding-top: 150px;
+}
+.span{
+    color: #F83D8E;
+}
+#hero3{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: #f8eae181;
+    }
+
+.hero3-our  {
+text-align: center;
+
+}
+.hero3-our h1{
+    font-size: 60px;
+}
+.hero3-our span{
+    color: #F83D8E;
+}
+.hero3-cards{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding-top: 80px;
+    justify-content: center;
+}
+.hero3-card{
+    width: 255px;
+    height: 453px;
+   border-radius: 10px;
+   padding: 10px;
+  background-color: white;
+   position: relative;
+   transition: 0.5s;
+}
+.yulduz{
+   
+   
+    display: flex;
+    align-items: center;
+}
+.hero3-img{
+display: flex;
+justify-content: center;
+width: 185px;
+height: 220px;
+width: 100%;
+background-color: #F7F2F7;
+border-radius: 10px;
+padding: 20px;
+}
+.yulduzz{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.yulduzz b{
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.hero3-card p{
+    color: #646464;
+    font-size: 16px;
+    margin-left: 15px;
+}
+
+.aaaa{
+    font-size: 22px;
+    margin-left: 15px;
+  color: #F83D8E;
+}
+.savat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+.yurakcha{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.hero3-card:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 10px #646464;
+}
+#hero4{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.hero4-navbar{
+    text-align: center;
+
+}
+.hero4-navbar h1 ,span{
+    font-size: 60px;
+}
+.hero4-navbar span{
+    color: #F83D8E;
+}
+.hero4-cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+}
+.hero5-cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#hero5{
+    padding-top:150px ;
+    padding-bottom: 100px;
+    background-color: #683292;
+}
+.hero5-cards h1{
+    font-size:112px;
+    color: white;
+}
+.hero5-cards p{
+    font-size: 30px;
+    color: white;
+    margin-top: 40px;
+}
+.hero5-cards button{
+    width:211px ;
+    height: 62px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin-top: 40px;
+    background-color: #F83D8E;
+    font-size: 18px;
+}
+#hero6{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.hero6-sign{
+text-align: center;
+
+}
+.hero6-sign h1{
+    font-size: 60px;
+}
+.hero6-sign span{
+    color: #F83D8E;
+}
+.hero6-sign p{
+    font-size: 23px;
+    color: #646464;
+}
+.hero6-sign form {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+   
+}
+.hero6-sign form input{
+    padding: 20px;
+    width: 520px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 0px 10px #0000000D;
+}
+.hero6-sign form button{
+    width:200px ;
+    height: 62px;
+    color: white;
+    font-size: 16px;
+    background-color: #F83D8E;
+    border-radius: 30px;
+border: none;
+}
+#hero7{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.hero7-cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 80px;
+}
+.hero7 {
+    text-align: center;
+}
+.hero7 h1{
+    font-size: 60px;
+}
+.hero7 p{
+    font-size: 23px;
+    color: #646464;
+}
+.hero7 span{
+    color: #F83D8E;
+}

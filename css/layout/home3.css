@@ -1,0 +1,41 @@
+.home3-hero img{
+    width: 100%;
+}
+.home3-hero{
+    padding-top: 140px;
+    position: relative;
+}
+.home3-card{
+    width: 650px;
+    height: 630px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 170px;
+    left: 30px;
+}
+.home3-card h1{
+    font-size:100px ;
+text-align: center;
+margin-top: 20px;
+}
+.home3-card span{
+   font-size: 100px;
+    color:#F83D8E ;
+}
+.home3-card p{
+    font-size: 22px;
+text-align: center;
+margin-top: 70px;
+}
+.home3-card button{
+    width: 303px;
+    height: 62px;
+    margin-top: 100px;
+  font-size: 18px;
+  margin-left: 170px;
+  border-radius: 30px;
+  border: none;
+  background-color: #683292;
+  color: white;
+}

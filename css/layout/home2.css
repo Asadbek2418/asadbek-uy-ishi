@@ -1,0 +1,141 @@
+#home2-hero{
+    padding-top: 200px;
+    padding-bottom: 150px;
+    background-color: #683292;
+   
+}
+.home2-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.home2-navbar h1{
+    font-size: 112px;
+    color: white;
+}
+.home2-navbar p{
+    font-size:22px;
+    color: white;
+    margin-top: 40px;
+}
+.home2-navbar button{
+    width:300px ;
+    height: 62px;
+    color: white;
+    font-size: 16px;
+    background-color: #F83D8E;
+    border-radius: 30px;
+    margin-top: 50px;
+    border: none;
+}
+#home2-hero2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.home2-navbar img{
+    width: 650px;
+}
+.home2-our{
+    text-align: center;
+}
+.home2-our h1 ,span{
+    font-size: 60px;
+}
+.home2-our span{
+    color: #F83D8E;
+}
+.home2-our p{
+    color:#646464 ;
+}
+.home2-card{
+    width:350px ;
+    height: 471px;
+}
+.home2-card p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.yulduuz{
+    text-align: center;
+    margin: 10px;
+}
+.home2-card h3{
+    text-align: center;
+    font-weight: bolder;
+    color: #683292;
+}
+.home2-card button{
+  margin-top: 20px;
+  margin-left: 110px;
+    width: 138px;
+    height: 44px;
+    color: white;
+    border-radius: 30px;
+    background-color: #F83D8E;
+    border: none;
+}
+.home2-cards{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#home2-hero3{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color:#F8EAE1;
+}
+.home2-vegan{
+    background-color: #F5F9FC;
+    display: flex;
+    align-items: center;
+  gap: 50px;
+  width: 1110px;
+}
+.vegan h1 ,span{
+    font-size: 60px;
+}
+.vegan span{
+    color: #F83D8E;
+}
+.vegan p{
+    font-size: 20px;
+    color: #646464;
+}
+.vegan button{
+    width: 257px;
+    height: 62px;
+    color: white;
+    font-size: 16px;
+    border-radius: 30px;
+    background-color: #F83D8E;
+    border: none;
+    margin-top: 50px;
+}
+#home2-hero4{
+    padding-top: 100px;
+    padding-bottom: 200px;
+    background-color: #F83D8E;
+}
+.home2-hero4 h1{
+    font-size: 112px;
+    text-align: center;
+    color: white;
+}
+.home2-hero4 p{
+    color: white;
+    font-size: 30px;
+text-align: center;
+}
+.home2-hero4 button{
+width:211px; 
+height: 62px;
+border-radius: 30px;
+color: white;
+margin-top: 80px;
+background-color: #683292;
+font-size: 16px;
+margin-left: 650px;
+}

@@ -1,0 +1,9 @@
+#about{
+    padding-top: 250px;
+    padding-bottom: 250px;
+    background-color: #EFD7EF;
+}
+.about h1{
+    font-size: 80px;
+    text-align: center;
+}
